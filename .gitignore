@@ -29,4 +29,6 @@ hs_err_pid*
 .idea/misc.xml
 .idea/sonarlint/
 pom.xml
-src/
+
+.idea/compiler.xml
+.idea/vcs.xml
