@@ -32,3 +32,6 @@ pom.xml
 
 .idea/compiler.xml
 .idea/vcs.xml
+src/main/java/model/
+src/main/resources/
+src/test/
